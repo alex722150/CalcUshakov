@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\GitHub\calculatorDZ\Gonashapelg.Tests\bin\Debug\netstandard1.4\Gonashapelg.Tests.deps.json
+C:\Users\Admin\Documents\GitHub\calculatorDZ\Gonashapelg.Tests\bin\Debug\netstandard1.4\Gonashapelg.Tests.dll
+C:\Users\Admin\Documents\GitHub\calculatorDZ\Gonashapelg.Tests\obj\Debug\netstandard1.4\Gonashapelg.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\calculatorDZ\Gonashapelg.Tests\obj\Debug\netstandard1.4\Gonashapelg.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\calculatorDZ\Gonashapelg.Tests\obj\Debug\netstandard1.4\Gonashapelg.Tests.AssemblyInfo.cs

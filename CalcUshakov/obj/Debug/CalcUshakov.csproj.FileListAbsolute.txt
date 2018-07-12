@@ -1,0 +1,14 @@
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\bin\Debug\Gonashapelg.exe.config
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\bin\Debug\Gonashapelg.exe
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\bin\Debug\Gonashapelg.pdb
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\bin\Debug\nunit.framework.dll
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\bin\Debug\nunit.framework.pdb
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\bin\Debug\nunit.framework.xml
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\obj\Debug\CalcUshakov.csprojAssemblyReference.cache
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\obj\Debug\Gonashapelg.Properties.Resources.resources
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\obj\Debug\CalcUshakov.csproj.GenerateResource.cache
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\obj\Debug\CalcUshakov.csproj.CoreCompileInputs.cache
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\obj\Debug\CalcUshakov.csproj.CopyComplete
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\obj\Debug\Gonashapelg.exe
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\obj\Debug\Gonashapelg.pdb
+C:\Users\Alex Ushakov\Documents\GitHub\DCalcul\Gonashapelg\obj\Debug\CalcUshakov.Form1.resources
